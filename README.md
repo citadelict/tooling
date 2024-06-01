@@ -74,6 +74,8 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 
+testing if artifacts are being sent to NFS server over ssh
+
 
 
 
